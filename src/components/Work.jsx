@@ -7,7 +7,7 @@ import proj3 from "../assets/proj3.png";
 const projects = [
   { id: 1, img: proj1, title: "Youtube Clone", liveUrl: "https://youtube-clone-iota-two.vercel.app/" },
   { id: 2, img: proj2, title: "CarHub", liveUrl: "https://car-hub-gamma-gules.vercel.app/" },
-  { id: 2, img: proj3, title: "Portfolio", liveUrl: "https://my-portfolio-omega-five-25.vercel.app/" },
+  { id: 2, img: proj3, title: "Portfolio", liveUrl: "https://my-portfolio-eta-indol.vercel.app/" },
 ];
 
 const Work = () => {
