@@ -4,8 +4,11 @@ import proj1 from "../assets/proj1.png";
 import proj2 from "../assets/proj2.png";
 import proj3 from "../assets/proj3.png";
 import proj4 from "../assets/proj4.png";
+import proj5 from "../assets/proj5.png";
+
 
 const projects = [
+  
   {
     id: 1,
     img: proj1,
@@ -26,6 +29,12 @@ const projects = [
   },
   {
     id: 4,
+    img: proj5,
+    title: "Notes-Keeper",
+    liveUrl: "https://github.com/1234atulkashyap/Notes-Keeper",
+  },
+  {
+    id: 5,
     img: proj4,
     title: "Video-Meet",
     liveUrl: "https://video-meet-eta.vercel.app",
