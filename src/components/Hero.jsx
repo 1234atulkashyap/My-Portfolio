@@ -21,7 +21,7 @@ const Hero = () => {
           <p className=" text-gray-300 mb-3">I`m a </p>
           <TypeAnimation 
           sequence={[
-            "Frontend Developer", 1000, 
+            "FullStack Developer", 1000, 
             "web Designer", 1000,
           ]}
           wrapper="span"
